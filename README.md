@@ -13,7 +13,7 @@ MLP Model:
 * relu and softmax activations
 * test accuracy 0.727
 
-![](MLP_Summary.jpg)
+![](Images/MLP_Summary.jpg)
 
 CNN Model:
 * l2 regularization
@@ -24,11 +24,11 @@ CNN Model:
 * relu and softmax activations
 * test accuracy 0.901 
 
-![](CNN_Summary.jpg)
+![](Images/CNN_Summary.jpg)
 
 
 Some sample predictions of models:
 
-![](Sample_output_1.jpg)
+![](Images/Sample_output_1.jpg)
 
-![](Sample_output_2.jpg)
+![](Images/Sample_output_2.jpg)
