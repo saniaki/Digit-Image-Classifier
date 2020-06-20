@@ -10,7 +10,7 @@ MLP Model:
 * ones bias initializer
 * relu and softmax activations
 
-
+![](MLP_Summary.jpg)
 
 CNN Model:
 * l2 regularization
@@ -20,3 +20,4 @@ CNN Model:
 * dropout
 * relu and softmax activations
 
+![](CNN_Summary.jpg)
