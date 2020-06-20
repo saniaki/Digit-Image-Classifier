@@ -9,6 +9,7 @@ MLP Model:
 * He weights initializer
 * ones bias initializer
 * relu and softmax activations
+* test accuracy 0.727
 
 ![](MLP_Summary.jpg)
 
@@ -19,6 +20,7 @@ CNN Model:
 * batchnrmalization
 * dropout
 * relu and softmax activations
+* test accuracy 0.901 
 
 ![](CNN_Summary.jpg)
 
