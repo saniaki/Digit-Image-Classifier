@@ -3,7 +3,7 @@ Two neural network models,Multilayer Perceptron Neural Netowrk (MLP-NN) and Conv
 
 Due to privacy issues, the models are trained for SVHN dataset here. <br>
 Same model can be trained for a dataset including Persian numbers
-[SVHN dataset](http://ufldl.stanford.edu/housenumbers/)
+[SVHN dataset](http://ufldl.stanford.edu/housenumbers/) <br>
 ![](Images/Numbers.jpg)
 
 Both neural networks are trained on a subset of SVHN dataset including 73257 training data and 26032 test data. In each case, 10% of training data are used for validation purpose.
@@ -30,7 +30,7 @@ CNN Model:
 ![](Images/CNN_Summary.jpg)
 
 
-Some sample predictions of models:
+Some sample predictions of models (a comparison between two models):
 
 ![](Images/Sample_output_1.jpg)
 
