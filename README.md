@@ -16,8 +16,6 @@ MLP Model:
 * relu and softmax activations
 * test accuracy 0.727
 
-![](Images/MLP_Summary.jpg)
-
 CNN Model:
 * l2 regularization
 * He weights initializer
@@ -26,8 +24,6 @@ CNN Model:
 * dropout
 * relu and softmax activations
 * test accuracy 0.901 
-
-![](Images/CNN_Summary.jpg)
 
 
 Some sample predictions of models (a comparison between two models): <br>
