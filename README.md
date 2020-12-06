@@ -40,6 +40,10 @@ Some sample predictions of models (a comparison between two models): <br>
 <br>
 <br>
 **Accuracy of MLP model** <br>
+
+<p align="center">
+<img  align="center" src="https://github.com/saniaki/Digit-Image-Classifier/blob/master/Images/MLP_accuracy.jpg.jpg" width="500"/>
+
 ![](Images/MLP_accuracy.jpg)
 <br>
 **Accuracy of CNN model** <br>
