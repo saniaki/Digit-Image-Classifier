@@ -1,6 +1,9 @@
-# Digit Image Classififier for SVHN Dataset
-Two neural networks, MLP-NN and CNN, that classify real word image of digits from SVHN dataset.
+# Digit Image Classififier
+Two neural network models,Multilayer Perceptron Neural Netowrk (MLP-NN) and Convolutional Neural Network (CNN) , that classify real word image of digits.
 
+Due to privacy issues, the models are trained for SVHN dataset here. <br>
+Same model can be trained for a dataset including Persian numbers
+[SVHN dataset](http://ufldl.stanford.edu/housenumbers/)
 ![](Images/Numbers.jpg)
 
 Both neural networks are trained on a subset of SVHN dataset including 73257 training data and 26032 test data. In each case, 10% of training data are used for validation purpose.
