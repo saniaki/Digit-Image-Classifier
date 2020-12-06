@@ -31,11 +31,13 @@ Some sample predictions of models (a comparison between two models): <br>
 1- **Both models predict correctly:** <br>
 <p align="center">
 <img  align="center" src="https://github.com/saniaki/Digit-Image-Classifier/blob/master/Images/Sample_output_1.jpg" width="700"/>
- <br>
+<br>
+ 
  2- **Only CNN model predicts correctly:** <br>
 <p align="center">
 <img  align="center" src="https://github.com/saniaki/Digit-Image-Classifier/blob/master/Images/Sample_output_2.jpg" width="700"/>
  <br>
+ 
  3- **Only CNN model predicts correctly:** <br>
 <p align="center">
 <img  align="center" src="https://github.com/saniaki/Digit-Image-Classifier/blob/master/Images/Sample_output_3.jpg" width="700"/>
@@ -45,8 +47,9 @@ Some sample predictions of models (a comparison between two models): <br>
 <br>
 **Accuracy of MLP model** 
 <p align="center">
-<img  align="center" src="https://github.com/saniaki/Digit-Image-Classifier/blob/master/Images/MLP_accuracy.jpg" width="300"/>
+<img  align="center" src="https://github.com/saniaki/Digit-Image-Classifier/blob/master/Images/MLP_accuracy.jpg" width="450"/>
 <br>
+ 
 **Accuracy of MLP model** 
 <p align="center">
-<img  align="center" src="https://github.com/saniaki/Digit-Image-Classifier/blob/master/Images/CNN_accuracy.jpg" width="300"/>
+<img  align="center" src="https://github.com/saniaki/Digit-Image-Classifier/blob/master/Images/CNN_accuracy.jpg" width="450"/>
