@@ -45,8 +45,8 @@ Some sample predictions of models (a comparison between two models): <br>
 <br>
 **Accuracy of MLP model** 
 <p align="center">
-<img  align="center" src="https://github.com/saniaki/Digit-Image-Classifier/blob/master/Images/MLP_accuracy.jpg" width="500"/>
+<img  align="center" src="https://github.com/saniaki/Digit-Image-Classifier/blob/master/Images/MLP_accuracy.jpg" width="300"/>
 <br>
 **Accuracy of CNN model** <br>
  <p align="center">
-<img  align="center" src="https://github.com/saniaki/Digit-Image-Classifier/blob/master/Images/CNN_accuracy.jpg" width="500"/>
+<img  align="center" src="https://github.com/saniaki/Digit-Image-Classifier/blob/master/Images/CNN_accuracy.jpg" width="300"/>
