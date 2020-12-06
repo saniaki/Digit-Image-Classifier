@@ -31,11 +31,11 @@ CNN Model:
 
 
 Some sample predictions of models (a comparison between two models): <br>
-**Both models predict correctly** <br>
+1- **Both models predict correctly:** <br>
 ![](Images/Sample_output_1.jpg)
  <br>
- **Only CNN model predicts correctly**<br>
+ 2- **Only CNN model predicts correctly:**<br>
 ![](Images/Sample_output_2.jpg)
  <br>
- **Only CNN model predicts correctly**<br>
+ 3- **Only CNN model predicts correctly:**<br>
 ![](Images/Sample_output_3.jpg)
