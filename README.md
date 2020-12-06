@@ -31,7 +31,7 @@ CNN Model:
 
 
 Some sample predictions of models (a comparison between two models):
-
+**Both model predict correctly**
 ![](Images/Sample_output_1.jpg)
 
 ![](Images/Sample_output_2.jpg)
