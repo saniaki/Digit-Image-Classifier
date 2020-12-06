@@ -39,3 +39,12 @@ Some sample predictions of models (a comparison between two models): <br>
  <br>
  3- **Only CNN model predicts correctly:**<br>
 ![](Images/Sample_output_3.jpg)
+
+<br>
+<br>
+<br>
+**Accuracy of MLP model** <br>
+![](Images/MLP_accuracy.jpg)
+<br>
+**Accuracy of CNN model** <br>
+![](Images/CNN_accuracy.jpg)
