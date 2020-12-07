@@ -61,5 +61,5 @@ Some sample predictions of models (a comparison between two models): <br>
 This model is developed with support of <br>
 <br>
 <p align="center">
-<img  align="center" src="https://github.com/saniaki/digit-classifier/blob/master/Images/Logo.png.png"/> 
+<img  align="center" src="https://github.com/saniaki/digit-classifier/blob/master/Images/Logo.png"/> 
 
