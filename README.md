@@ -54,3 +54,12 @@ Some sample predictions of models (a comparison between two models): <br>
 **Accuracy of CNN model** 
 <p align="center">
 <img  align="center" src="https://github.com/saniaki/Digit-Image-Classifier/blob/master/Images/CNN_accuracy.jpg" width="450"/>
+ 
+ 
+ 
+**Acknowledgement** <br>
+This model is developed with support of <br>
+<br>
+<p align="center">
+<img  align="center" src="https://github.com/saniaki/digit-classifier/blob/master/Images/Logo.png.png"/> 
+
