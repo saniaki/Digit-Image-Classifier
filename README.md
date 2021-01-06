@@ -60,7 +60,7 @@ MLP Model:
  
 
 ## Predictions
-For HODA Persian dataset, both models makes highly accurate predictions.  For SVHN English dataset, CVV model is more accurate.  <br>
+For HODA Persian dataset, both models makes highly accurate predictions while CNN model performs slightly better.  For SVHN English dataset, CVV model is more accurate.  <br>
  
 **Accuracy of CNN model - Persian Digits** 
 <p align="center">
