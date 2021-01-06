@@ -4,7 +4,7 @@ Two neural network models, Multilayer Perceptron Neural Network (MLP-NN) and Con
 There are many signs in Tehran that uses English digits. For that reason same CNN and MLP models are trained separately for a dataset of real images of English digits. As indicated in the prediction section, CBB model outperform the MLP model. In real application, both trained CNN models (on Persian and English digits) would be used in parallel to predict the observed numbers, and the one with highest probability prediction would be considered as the prediction. A tool has been developed based on the presented CNN models to perform such analysis in real application (as showed in the image below). Due to privcy issues, the details of this tool cannot be shared. In alternative approach, a single CNN model can be trained on a combined database of Persian and Engilish digits (labels have to be updated/extended to 1-20). However, due to similarity between some digits in both Persian and English, prediction of language of the number won't be trivial (although the value of number prediction would be accurate).
 
 <p align="center">
-<img  align="center" src="https://github.com/saniaki/digit-classifier/blob/master/images/Model.jpg" width="300"/>
+<img  align="center" src="https://github.com/saniaki/digit-classifier/blob/master/images/Model.jpg" width="500"/>
 <br>
 
 
