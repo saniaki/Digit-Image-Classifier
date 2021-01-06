@@ -1,4 +1,4 @@
-# Digit Image Classififier
+# Digit Image Classifier
 Two neural network models,Multilayer Perceptron Neural Netowrk (MLP-NN) and Convolutional Neural Network (CNN) , that classify real word image of digits.
 
 Due to privacy issues, the models are trained for SVHN dataset here. <br>
