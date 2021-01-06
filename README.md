@@ -4,7 +4,7 @@ Two neural network models, Multilayer Perceptron Neural Network (MLP-NN) and Con
 ## Datasets
 
 ### Persian digits
-Due to privacy issues, the models are presented here for HODA handwringing Persian digits dataset. The trained models are re-trained for images of Persian digits.<br>
+Due to privacy issues, the models are presented here for HODA handwringing Persian digits dataset. The trained models are re-trained for images of Persian digits provided by the sponser of the project.<br>
 
 [HODA dataset](http://farsiocr.ir/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AF%D8%A7%D8%AF%D9%87/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%A7%D8%B1%D9%82%D8%A7%D9%85-%D8%AF%D8%B3%D8%AA%D9%86%D9%88%DB%8C%D8%B3-%D9%87%D8%AF%DB%8C/)<br>
 HODA dataset is the first dataset of handwritten Farsi digits that has been developed during an MSc. project in Tarbiat Modarres University entitled: Recognizing Farsi Digits and Characters in SANJESH Registration Forms. This project has been carried out in cooperation with Hoda System Corporation. It was finished in summer 2005 under supervision of Prof. Ehsanollah Kabir. Samples of the dataset are handwritten characters extracted from about 12000 registration forms of university entrance examination in Iran. The dataset specifications is as follows:
