@@ -1,5 +1,5 @@
 # Persian Digit Image Classifier
-Two neural network models, Multilayer Perceptron Neural Network (MLP-NN) and Convolutional Neural Network (CNN) , that classify image of Persian digits.
+Two neural network models, Multilayer Perceptron Neural Network (MLP-NN) and Convolutional Neural Network (CNN) , that classify image of Persian digits. The models are developed using Keras library. 
 
 ## Datasets
 
