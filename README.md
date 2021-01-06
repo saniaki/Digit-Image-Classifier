@@ -33,13 +33,7 @@ Both neural networks are trained on a subset of SVHN dataset including 73257 tra
 Input images are 32*32*3. The training is applied to the grey scale images of 32*32*1 obtained through preprocessing of data.
 
 
-### Neural Networks 
-MLP Model:
-* l2 regularization
-* He weights initializer
-* ones bias initializer
-* relu and softmax activations
-* test accuracy 0.727
+## Neural Networks 
 
 CNN Model:
 * l2 regularization
@@ -48,9 +42,24 @@ CNN Model:
 * batchnrmalization
 * dropout
 * relu and softmax activations
-* test accuracy 0.901 
+* test accuracy, Persian digits = 0.983, English digits = 0.898 
 
-### Predictions
+<p align="center">
+<img  align="center" src="https://github.com/saniaki/digit-classifier/blob/master/images/English/CNN_Summary.jpg" width="450"/>
+ 
+ 
+MLP Model:
+* l2 regularization
+* He weights initializer
+* ones bias initializer
+* relu and softmax activations
+* test accuracy, Persian digits = 0.966, English digits = 0.779 
+
+<p align="center">
+<img  align="center" src="https://github.com/saniaki/digit-classifier/blob/master/images/English/MLP_Summary.jpg" width="450"/>
+ 
+
+## Predictions
 For HODA Persian dataset, both models makes highly accurate predictions.  For SVHN English dataset, CVV model is more accurate.  <br>
  
 **Accuracy of CNN model - Persian Digits** 
