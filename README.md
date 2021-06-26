@@ -60,7 +60,7 @@ MLP Model:
 * He weights initializer
 * ones bias initializer
 * relu and softmax activations
-* test accuracy, Persian digits = 0.966, English digits = 0.779 
+* test accuracy, Persian digits = 0.886, English digits = 0.779 
 
 <p align="center">
 <img  align="center" src="https://github.com/saniaki/digit-classifier/blob/master/images/English/MLP_Summary.jpg" width="450"/>
